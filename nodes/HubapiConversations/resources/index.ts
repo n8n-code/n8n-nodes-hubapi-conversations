@@ -1,0 +1,1 @@
+export { generateDescription } from './generate';
